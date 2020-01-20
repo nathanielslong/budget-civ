@@ -3,6 +3,9 @@
         <v-row class="justify-center">
             <h1>This is a budget lol</h1>
         </v-row>
+        <v-row>
+            <router-link to="/budget/new">Make new budget</router-link>
+        </v-row>
         <v-row class="justify-center">
             <v-text-field
             label="Total money"
