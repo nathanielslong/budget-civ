@@ -32,3 +32,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Running the Server
+```
+ruby api/budget-civ.rb
+```
+Then navigate to <http://localhost:4567>
